@@ -1,4 +1,4 @@
-Zig binary crashes after code signing on MacOS.
+Zig binary crashes after code signing on MacOS ([issue](https://github.com/ziglang/zig/issues/21835)).
 
 ### Steps to reproduce
 1. Provision a code signing certificate ([see](#how-to-provision-code-signing-cert))
